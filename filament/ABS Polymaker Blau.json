@@ -1,0 +1,94 @@
+{
+    "chamber_temperature": [
+        "60"
+    ],
+    "close_fan_the_first_x_layers": [
+        "1"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "50"
+    ],
+    "default_filament_colour": [
+        "#0006F9"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "15"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "100"
+    ],
+    "fan_min_speed": [
+        "80"
+    ],
+    "filament_cooling_final_speed": [
+        "0"
+    ],
+    "filament_cooling_initial_speed": [
+        "0"
+    ],
+    "filament_cooling_moves": [
+        "0"
+    ],
+    "filament_cost": [
+        "24"
+    ],
+    "filament_flow_ratio": [
+        "0.95"
+    ],
+    "filament_loading_speed": [
+        "0"
+    ],
+    "filament_loading_speed_start": [
+        "0"
+    ],
+    "filament_max_volumetric_speed": [
+        "22"
+    ],
+    "filament_multitool_ramming_flow": [
+        "0"
+    ],
+    "filament_multitool_ramming_volume": [
+        "0"
+    ],
+    "filament_notes": [
+        "Curlt bei Überhängen, insbesondere Eck-Überhängen! => Breitere Linien und ggf. Layerhöhe Reduzieren."
+    ],
+    "filament_settings_id": [
+        "ABS Polymaker Blau"
+    ],
+    "filament_type": [
+        "ABS Polymaker Blau"
+    ],
+    "filament_unloading_speed": [
+        "0"
+    ],
+    "filament_unloading_speed_start": [
+        "0"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "2"
+    ],
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "ABS Polymaker Blau",
+    "pressure_advance": [
+        "0.03"
+    ],
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "version": "2.1.1.0"
+}

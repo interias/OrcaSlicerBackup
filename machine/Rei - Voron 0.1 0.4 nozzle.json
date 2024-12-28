@@ -1,0 +1,13 @@
+{
+    "from": "User",
+    "inherits": "Voron 0.1 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Rei - Voron 0.1 0.4 nozzle",
+    "preferred_orientation": "45",
+    "print_host": "192.168.188.68",
+    "printer_settings_id": "Rei - Voron 0.1 0.4 nozzle",
+    "retraction_minimum_travel": [
+        "2"
+    ],
+    "version": "2.2.0.0"
+}

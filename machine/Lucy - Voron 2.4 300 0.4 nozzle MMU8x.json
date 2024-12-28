@@ -1,0 +1,49 @@
+{
+    "before_layer_change_gcode": "\n",
+    "change_filament_gcode": "T[next_extruder]",
+    "cooling_tube_length": "0.01",
+    "cooling_tube_retraction": "0",
+    "deretraction_speed": [
+        "35"
+    ],
+    "enable_filament_ramming": "0",
+    "extra_loading_move": "0",
+    "from": "User",
+    "inherits": "Voron 2.4 350 0.4 nozzle",
+    "is_custom_defined": "0",
+    "layer_change_gcode": "_MMU_UPDATE_HEIGHT\nSET_PRINT_STATS_INFO CURRENT_LAYER={layer_num}",
+    "machine_end_gcode": "MMU_END EJECT=1\nPRINT_END",
+    "machine_load_filament_time": "19.2",
+    "machine_pause_gcode": "",
+    "machine_start_gcode": "MMU_START_SETUP INITIAL_TOOL={initial_tool} REFERENCED_TOOLS=!referenced_tools! TOOL_COLORS=!colors! TOOL_TEMPS=!temperatures! TOOL_MATERIALS=!materials! FILAMENT_NAMES=!filament_names! PURGE_VOLUMES=!purge_volumes!\nMMU_START_CHECK\nprint_start EXTRUDER=[first_layer_temperature] BED=[first_layer_bed_temperature]\nMMU_START_LOAD_INITIAL_TOOL\nCLEAN_NOZZLE WIPE_QTY=10\nVORON_PURGE\nMMU_SYNC_GEAR_MOTOR\nSET_PRINT_STATS_INFO TOTAL_LAYER={total_layer_count}",
+    "machine_unload_filament_time": "21.4",
+    "name": "Lucy - Voron 2.4 300 0.4 nozzle MMU8x",
+    "parking_pos_retraction": "0",
+    "preferred_orientation": "45",
+    "print_host": "http://192.168.188.74/",
+    "printable_area": [
+        "0x0",
+        "300x0",
+        "300x300",
+        "0x300"
+    ],
+    "printable_height": "240",
+    "printer_settings_id": "Lucy - Voron 2.4 300 0.4 nozzle MMU8x",
+    "retract_length_toolchange": [
+        "0"
+    ],
+    "retraction_length": [
+        "0.5"
+    ],
+    "retraction_minimum_travel": [
+        "2"
+    ],
+    "retraction_speed": [
+        "35"
+    ],
+    "time_cost": "0.4",
+    "version": "1.8.0.0",
+    "z_hop": [
+        "0.25"
+    ]
+}

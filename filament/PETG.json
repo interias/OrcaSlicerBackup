@@ -1,0 +1,16 @@
+{
+    "filament_settings_id": [
+        "PETG"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "Voron Generic PETG",
+    "is_custom_defined": "0",
+    "name": "PETG",
+    "version": "2.2.0.0"
+}

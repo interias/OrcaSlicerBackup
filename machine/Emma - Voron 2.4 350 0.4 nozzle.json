@@ -1,0 +1,34 @@
+{
+    "before_layer_change_gcode": "\n",
+    "change_filament_gcode": "M600",
+    "deretraction_speed": [
+        "35"
+    ],
+    "enable_filament_ramming": "0",
+    "from": "User",
+    "inherits": "Voron 2.4 350 0.4 nozzle",
+    "is_custom_defined": "0",
+    "layer_change_gcode": "",
+    "machine_start_gcode": "print_start EXTRUDER=[first_layer_temperature] BED=[first_layer_bed_temperature]",
+    "manual_filament_change": "1",
+    "name": "Emma - Voron 2.4 350 0.4 nozzle",
+    "preferred_orientation": "45",
+    "print_host": "http://192.168.188.37",
+    "printable_height": "280",
+    "printer_settings_id": "Emma - Voron 2.4 350 0.4 nozzle",
+    "purge_in_prime_tower": "0",
+    "retraction_length": [
+        "0.5"
+    ],
+    "retraction_minimum_travel": [
+        "2"
+    ],
+    "retraction_speed": [
+        "35"
+    ],
+    "time_cost": "0.4",
+    "version": "1.8.0.0",
+    "z_hop": [
+        "0.25"
+    ]
+}
