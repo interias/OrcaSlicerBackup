@@ -1,9 +1,18 @@
 {
+    "chamber_temperature": [
+        "60"
+    ],
+    "close_fan_the_first_x_layers": [
+        "1"
+    ],
     "default_filament_colour": [
-        "#000000"
+        "#00FF0D"
     ],
     "enable_pressure_advance": [
         "1"
+    ],
+    "fan_max_speed": [
+        "80"
     ],
     "filament_cooling_final_speed": [
         "0"
@@ -15,10 +24,10 @@
         "0"
     ],
     "filament_cost": [
-        "10"
+        "18.89"
     ],
     "filament_flow_ratio": [
-        "0.95"
+        "0.963"
     ],
     "filament_loading_speed": [
         "0"
@@ -27,10 +36,16 @@
         "0"
     ],
     "filament_max_volumetric_speed": [
-        "22"
+        "15"
+    ],
+    "filament_multitool_ramming_flow": [
+        "0"
+    ],
+    "filament_multitool_ramming_volume": [
+        "0"
     ],
     "filament_settings_id": [
-        "PLA+ Yayo schwarz"
+        "ABS Sunlu Grün"
     ],
     "filament_unloading_speed": [
         "0"
@@ -39,20 +54,29 @@
         "0"
     ],
     "filament_vendor": [
-        "Jayo"
+        "Sunlu"
     ],
     "from": "User",
-    "inherits": "Voron Generic PLA",
-    "is_custom_defined": "0",
-    "name": "PLA+ Yayo schwarz",
-    "nozzle_temperature": [
-        "210"
+    "full_fan_speed_layer": [
+        "2"
     ],
-    "nozzle_temperature_initial_layer": [
-        "210"
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "ABS Sunlu Grün",
+    "nozzle_temperature": [
+        "250"
     ],
     "pressure_advance": [
         "0.035"
     ],
-    "version": "2.2.0.0"
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "version": "2.1.1.0"
 }

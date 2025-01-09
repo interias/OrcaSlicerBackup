@@ -14,17 +14,14 @@
     "fan_cooling_layer_time": [
         "0"
     ],
-    "fan_max_speed": [
-        "0"
-    ],
     "fan_min_speed": [
-        "0"
+        "20"
     ],
     "filament_cost": [
-        "133.2"
+        "110"
     ],
     "filament_density": [
-        "1.36"
+        "1.07"
     ],
     "filament_flow_ratio": [
         "0.96"
@@ -33,50 +30,47 @@
         "8"
     ],
     "filament_settings_id": [
-        "ECPCCF"
+        "PA12+CF15"
     ],
     "filament_type": [
-        "Ez PCCF"
+        "PA-CF"
     ],
     "filament_vendor": [
-        "3DXTech"
+        "Fiberlogy"
     ],
     "from": "User",
     "hot_plate_temp": [
-        "110"
+        "100"
     ],
     "hot_plate_temp_initial_layer": [
-        "110"
+        "100"
     ],
     "inherits": "Voron Generic ABS",
     "is_custom_defined": "0",
-    "name": "ECPCCF",
+    "name": "PA12+CF15",
     "nozzle_temperature": [
-        "280"
+        "270"
     ],
     "nozzle_temperature_initial_layer": [
-        "280"
-    ],
-    "nozzle_temperature_range_high": [
-        "290"
+        "270"
     ],
     "nozzle_temperature_range_low": [
-        "260"
+        "255"
     ],
     "overhang_fan_speed": [
         "35"
     ],
     "pressure_advance": [
-        "0.025"
+        "0.03"
     ],
     "reduce_fan_stop_start_freq": [
         "0"
     ],
     "slow_down_layer_time": [
-        "0"
+        "10"
     ],
     "temperature_vitrification": [
-        "135"
+        "150"
     ],
     "version": "2.1.1.0"
 }
