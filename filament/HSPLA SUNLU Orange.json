@@ -27,7 +27,7 @@
         "22"
     ],
     "filament_settings_id": [
-        "HSPLA"
+        "HSPLA SUNLU Orange"
     ],
     "filament_unloading_speed": [
         "0"
@@ -41,7 +41,7 @@
     "from": "User",
     "inherits": "Voron Generic PLA",
     "is_custom_defined": "0",
-    "name": "HSPLA",
+    "name": "HSPLA SUNLU Orange",
     "nozzle_temperature": [
         "210"
     ],

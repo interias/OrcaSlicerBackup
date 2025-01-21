@@ -1,6 +1,6 @@
 {
     "default_filament_colour": [
-        "#555555"
+        "#303030"
     ],
     "enable_pressure_advance": [
         "1"
@@ -18,7 +18,7 @@
         "10"
     ],
     "filament_flow_ratio": [
-        "0.97"
+        "0.96"
     ],
     "filament_loading_speed": [
         "0"
@@ -33,7 +33,7 @@
         "0"
     ],
     "filament_settings_id": [
-        "PLA Yayo matt grau"
+        "PLA Prusa Galaxy grau"
     ],
     "filament_unloading_speed": [
         "0"
@@ -42,20 +42,23 @@
         "0"
     ],
     "filament_vendor": [
-        "Jayo"
+        "Prusa"
     ],
     "filament_wipe": [
         "0"
     ],
     "from": "User",
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
     "inherits": "Voron Generic PLA",
     "is_custom_defined": "0",
-    "name": "PLA Yayo matt grau",
+    "name": "PLA Prusa Galaxy grau",
     "nozzle_temperature": [
-        "190"
+        "215"
     ],
     "nozzle_temperature_initial_layer": [
-        "200"
+        "215"
     ],
     "pressure_advance": [
         "0.03"
